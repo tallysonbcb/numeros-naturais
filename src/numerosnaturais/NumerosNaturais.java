@@ -9,7 +9,7 @@ package numerosnaturais;
  *
  * @author aluno
  */
-public class NumerosNaturais {
+public class NumerosNaturais { 
 
     private int numeroNatural = 0; 
 
