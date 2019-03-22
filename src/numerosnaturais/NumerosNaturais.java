@@ -11,7 +11,7 @@ package numerosnaturais;
  */
 public class NumerosNaturais {
 
-    private int numeroNatural = 0;
+    private int numeroNatural = 0; 
 
     public int getNumeroNatural1() {
         return numeroNatural;
